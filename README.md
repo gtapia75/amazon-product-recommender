@@ -39,3 +39,4 @@ The project implements collaborative filtering techniques to:
 
 ## Notes
 - This notebook was implemented on Google Colab
+- The original .csv file is around 300Mb (7.8M of rows) , to do it easy to manipulate, I reduced it to around 60 MB (1.5M of rows). 
